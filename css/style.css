@@ -1,0 +1,93 @@
+body {
+  text-align: center;
+  font-family: Open Sans, sans-serif;
+  background-color: #8A71C9;
+  color: #ffffff;
+  margin: 0;
+}
+
+h2 {
+  color: #2A0074;
+  font-size: 40px;
+}
+
+.infancia {
+  color: #04ff9f;
+}
+
+.juventude {
+  color: #FF9E9E;
+}
+
+.vida-adulta {
+  color: #ffe36d;
+}
+
+section {
+  width: 60%;
+  margin: 0 auto;
+}
+
+section section {
+  width: 100%;
+}
+h1 {
+  font-size: 60px;
+  font-weight: 300;
+}
+
+p {
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+h3 {
+  font-size: 22px;
+  font-style: italic;
+}
+
+img {
+  width: 100%;
+}
+
+ul {
+  list-style-type: none;
+  line-height: 2;
+  padding-left: 0;
+}
+
+a {
+   text-decoration: none;
+   color: #99ffff;
+   font-weight: 700;
+}
+
+.principal a {
+  color:#FFF;
+  font-weight: normal;
+  text-decoration: underline;
+}
+
+.principal {
+  background-color: #FF6CB5;
+  height: 45px;
+  max-width: 60%;
+  margin: 0 auto;
+}
+
+.principal li {
+  display: inline-block;
+  line-height: 2.5;
+  margin: 0 89px;
+}
+
+button {
+  background: #41f341;
+  border: 1px solid transparent;
+  padding: 2px 20px;
+  border-radius: 3px;
+}
+
+.formulario {
+  height: 45px;
+}
